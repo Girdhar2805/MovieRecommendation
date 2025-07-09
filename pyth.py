@@ -1,1 +1,1 @@
-print("Hello From Master!")
+print("Hello a server is asking to Master!")
