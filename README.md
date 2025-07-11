@@ -22,9 +22,6 @@ Setup Your Project
 
 Create project folder structure:
 
-css
-Copy
-Edit
 movie_recommender/
 ├── data/
 ├── notebooks/
@@ -34,10 +31,8 @@ movie_recommender/
 └── main.py
 Create a Python virtual environment and install:
 
-bash
-Copy
-Edit
 pip install pandas numpy scikit-learn matplotlib seaborn tensorflow streamlit
+
 Load & Explore Data
 
 Use pandas to load ratings, movies, users, and tags.
@@ -195,3 +190,4 @@ Use FastAPI + Swagger for REST API
 Integrate real-time user feedback to re-train model
 
 Allow user login/session to personalize recommendations
+ 
